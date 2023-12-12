@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="BaroCraftables+ old cabinets extended" steamworkshopid="2764140582" corepackage="false" modversion="1.0.00" gameversion="1.1.18.0" installtime="1697752586" >
+  <Item file="%ModDir%/Items/Containers Override.xml" />
+</contentpackage>
